@@ -1,9 +1,14 @@
-# ZerePy
+# ZerePy - Fin
 
 ZerePy is an open-source Python framework designed to let you deploy your own agents on X, powered by OpenAI or Anthropic LLMs.
 
 ZerePy is built from a modularized version of the Zerebro backend. With ZerePy, you can launch your own agent with 
 similar core functionality as Zerebro. For creative outputs, you'll need to fine-tune your own model.
+
+### About Fin
+
+Fin is your funny AI crypto quant! He's trained on CT data. To use him simply @finvestorai on twitter and/or reply to his tweets and youll have a chance of getting a reply!
+X basic API rate limits apply.
 
 ## Features
 - CLI interface for managing agents
